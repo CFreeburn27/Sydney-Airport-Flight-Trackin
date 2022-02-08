@@ -1,13 +1,8 @@
 /*******************************************************************************
  * 48430 Fundamentals of C Programming - Assignment 2
- * Name:
+ * Name: Callum Freeburn
  * Student ID:12601338
  * Date of submission:
- * A brief statement on what you could achieve (less than 50 words):
- *
- *
- * A brief statement on what you could NOT achieve (less than 50 words):
- *
  *
  *******************************************************************************/
 /*******************************************************************************
